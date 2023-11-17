@@ -11,8 +11,7 @@ Each time the game is played, a question is presented on the screen. Correct ans
 
 ### Requirements
 
-#### Step 1: 
-Question Entry
+#### Step 1: Question Entry
 Input ten questions and their respective answers into a list or dictionary.
 
 #### Step 2: Implement Looping
